@@ -1,5 +1,5 @@
 <div align="center"
-# 🛡️ Jesús Martín | QA Automation & Cybersecurity Junior 🚀
+# 🛡️ Jesús Martín | QA Automation Junior | ISTBQ FOUNDATION LEVEL  🚀
 </div>
 
 <div align="center">
@@ -11,9 +11,9 @@
 
 ## 🎯 About Me
 
-- 🔐 **Focus:** QA Automation, Security Testing & Penetration Testing
-- 🌱 **Currently Learning:** Advanced Security Tools, Threat Modeling & DevSecOps
-- 🎯 **Goal:** Building secure, reliable applications through automated testing
+- 🔐 **Focus:** QA Automation, Security Testing & ISTBQ FOUNDATION LEVEL
+- 🌱 **Currently Learning:** Advanced Test Automation, Test Design Techniques & CI/CD for QA
+- 🎯 **Goal:** Ensuring high-quality, reliable software through effective manual and automated testing
 - 🇪🇸 **Location:** Seville, Andalusia, Spain
 - 🚀 **Open to:** Security-focused projects and cybersecurity opportunities
 
@@ -70,7 +70,7 @@ Check out my portfolio to see my projects and skills in action!
 - **QA Automation:** Selenium, Cypress, Playwright
 - **Security Testing:** OWASP ZAP, Burp Suite, Nmap
 - **DevSecOps:** Docker, Jenkins, CI/CD Security
-- **Threat Modeling & Security Best Practices**
+- **Threat Modeling Best Practices**
 
 ### 🌐 Languages
 ![English](https://img.shields.io/badge/English-C1_(in_progress)-blue?logo=cambridge&logoColor=white&style=flat-square)

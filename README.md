@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30px" style="margin-left: 10px;">
-  <h3 style="font-size: 1.2rem; margin: 0 0 20px 0;">🔒 Security-First QA Engineer & Cybersecurity Enthusiast</h3>
+  <h3 style="font-size: 1.2rem; margin: 0 0 20px 0;">🔒  QA Engineer Enthusiast</h3>
 </div>
 
 ---

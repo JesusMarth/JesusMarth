@@ -1,5 +1,5 @@
 <div align="center"
-# 🛡️ Jesús Martín | QA Automation Junior | ISTBQ FOUNDATION LEVEL  🚀
+# 🛡️ Jesús Martín | QA Engineer Junior | ISTBQ FOUNDATION LEVEL  🚀
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 - 🌱 **Currently Learning:** Advanced Test Automation, Test Design Techniques & CI/CD for QA
 - 🎯 **Goal:** Ensuring high-quality, reliable software through effective manual and automated testing
 - 🇪🇸 **Location:** Seville, Andalusia, Spain
-- 🚀 **Open to:** Security-focused projects and cybersecurity opportunities
+- 🚀 **Open to:** Security-focused projects and QA opportunities
 
 ---
 
